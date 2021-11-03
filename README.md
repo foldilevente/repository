@@ -1,2 +1,2 @@
 # repository
-egy teszt repository
+test
